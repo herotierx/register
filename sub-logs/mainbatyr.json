@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/herotierx/batyrswebsite.github.io",
+
+  "owner": {
+    "username": "mainbatyr",
+    "email": "mainbatyr@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "batyr", 
+       "value": "herotierx.github.io"
+     }
+  },
+
+  "proxied": false
+}
