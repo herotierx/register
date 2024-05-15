@@ -7,7 +7,7 @@
   },
 
   "target": {
-    "record-type": {
+    "CNAME": {
        "name": "batyr", 
        "value": "herotierx.github.io"
      }
