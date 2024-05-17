@@ -1,15 +1,15 @@
 {
-  "repo": "https://github.com/herotierx/herotierx.github.io",
+  "repo": "https://github.com//mainbatyr/mainbatyr.github.io",
 
   "owner": {
-    "username": "herotierx",
+    "username": "mainbatyr",
     "email": "mainbatyr@gmail.com"
   },
 
   "target": {
     "CNAME": {
        "name": "batyr", 
-       "value": "herotierx.github.io"
+       "value": "mainbatyr.github.io"
      }
   },
 
